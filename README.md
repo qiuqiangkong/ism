@@ -1,8 +1,6 @@
 # Image Source Method (ISM) for Audio Rendering
 
-Higher-Order Ambisonics (HOA)
-
-This repo implements image source method (ISM) for audio rendering and Higher-Order Ambisonics (HOA) rendering. The features of this repo are: (1) Provide online data rendering for training neural networks. (2) Provide individual ray data insteaded of integrated impulse response data.
+This repository implements the Image Source Method (ISM) for audio rendering and Higher-Order Ambisonics (HOA) rendering. Its key features are: (1) Online data rendering for training neural networks. (2) Fine-grained ray manipulation, allowing users to control individual rays rather than only accessing impulse responses [1].
 
 ## Usage
 
