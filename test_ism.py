@@ -69,8 +69,6 @@ class ISM_HOA(Dataset):
 
         azis, cols, wavs = [], [], []
 
-
-
         for img in images:
             
             mic_to_img = img - mic_pos
